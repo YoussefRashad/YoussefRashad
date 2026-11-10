@@ -11,6 +11,7 @@ I build and run the backend behind consumer fintech products: payments, digital 
 - **Integrations at scale:** 50+ third-party services, with tiered timeouts, failure alerting, and vendor health monitoring
 - **PostgreSQL in production:** zero-downtime migrations, versioned schema changes, query performance
 - **Security and reliability:** penetration-test and IT-audit remediation, Redis caching and distributed locking, queue-based async processing
+- **Observability and product analytics:** Prometheus and Grafana for metrics and alerting; event tracking and engagement with Amplitude, MoEngage, Google Analytics, and Firebase; crash and bug reporting with Luciq (formerly Instabug)
 - **Engineering leadership:** lead a team of 6 backend engineers — hiring, code-review and release standards, technical direction
 
 ## AI-assisted engineering
@@ -22,7 +23,7 @@ I build the tooling my team uses to work with coding agents safely.
 
 ## Stack
 
-`TypeScript` `Node.js` `NestJS` `PostgreSQL` `Redis` `TypeORM` `AWS (RDS, EC2)` `Docker` `Nginx` `PM2` `GitHub Actions` `Prometheus` `Grafana`
+`TypeScript` `Node.js` `NestJS` `PostgreSQL` `Redis` `TypeORM` `AWS (RDS, EC2)` `Docker` `Nginx` `PM2` `GitHub Actions` `Prometheus` `Grafana` `Amplitude` `MoEngage` `Firebase` `Google Analytics` `Luciq (Instabug)`
 
 Most of my work lives in private repositories.
 
