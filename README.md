@@ -18,7 +18,7 @@ I build and run the backend behind consumer fintech products: payments, digital 
 
 I build the tooling my team uses to work with coding agents safely.
 
-- **Claude Code skills for backend teams:** NestJS service standards and templates, a shared lint/TypeScript toolchain, agent setup with secret-path controls, multi-lane PR review, and a full-codebase security audit
+- **[backend-agent-skills](https://github.com/YoussefRashad/backend-agent-skills):** Claude Code and Codex skills for backend teams — NestJS service standards and templates, a shared lint/TypeScript toolchain, agent setup with secret-path controls, multi-lane PR review, and a full-codebase security audit
 - **[delegate-skills](https://github.com/YoussefRashad/delegate-skills/tree/feat/codex-isolated-lanes)** (fork, upstream [PR #164](https://github.com/amElnagdy/delegate-skills/pull/164)): isolated read-only Codex lanes, a fail-closed `sandbox_failed` status for sandbox errors that exit 0, and Codex Desktop coexistence on Windows
 
 ## Stack
